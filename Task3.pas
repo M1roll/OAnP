@@ -1,4 +1,3 @@
-﻿program QoQ;
 var 
   x,y,z : real;
   a, b :real;
