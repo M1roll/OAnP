@@ -1,29 +1,6 @@
 ﻿program QoQ;
-
-//var n, k:integer;
-//begin
-//  readln(n);
-//  readln(k);
-//  writeln((k+n)/2);
-//  write(Sqrt(k*n));
-//end.
-
-//var 
-//  a, a2, a3, a5, ans:integer;
-//  f: text;
-//
-//begin
-//  assign(f, 'in2.txt')
-//  read(f, a);
-//  a2 := a*a;
-//  a3 := a2*a;
-//  a5 := a3*a2;
-//  ans := a5*a5*a3;
-//  writeln(ans);
-//end.
-
 var 
-  x,y,z :integer;
+  x,y,z : real;
   a, b :real;
   f : text;
 
