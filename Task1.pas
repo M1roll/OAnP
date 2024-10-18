@@ -1,9 +1,7 @@
-﻿program QoQ;
-
-var n, k:integer;
+var n, k:real;
 begin
   readln(n);
   readln(k);
   writeln((k+n)/2);
-  write(Sqrt(k*n));
+  write(Sqrt(abs(k*n)));
 end.
