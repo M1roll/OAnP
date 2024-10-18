@@ -1,4 +1,3 @@
-﻿program QeQ;
 var 
   a, a2, a3, a5, ans:real;
   f: text;
